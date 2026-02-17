@@ -68,7 +68,7 @@ smart-expense-tracker-pro/
 ### 1️⃣ Clone the Repository
 
 
-git clone https://github.com/your-username/smart-expense-tracker-pro.git
+git clone https://github.com/pandey-sundaram/smart-expense-tracker-pro.git
 
 cd smart-expense-tracker-pro
 
