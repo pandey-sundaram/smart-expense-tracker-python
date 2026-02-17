@@ -51,14 +51,14 @@ Track expenses, manage budgets, visualize insights, and predict future spending 
 ## 📂 Project Structure
 
 
-smart-expense-tracker-pro/
-│
-├── app.py # Main Streamlit application
-├── auth.py # Secure authentication logic
-├── database.py # SQLite database setup
-├── ai.py # AI category detection logic
-├── requirements.txt
-└── expense.db # Auto-created database file
+smart-expense-tracker-pro/  
+  │
+  ├── app.py # Main Streamlit application
+  ├── auth.py # Secure authentication logic
+  ├── database.py # SQLite database setup
+  ├── ai.py # AI category detection logic
+  ├── requirements.txt
+  └── expense.db # Auto-created database file
 
 
 ---
